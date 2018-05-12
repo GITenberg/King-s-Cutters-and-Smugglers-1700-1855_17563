@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7457'
     url: http://www.gutenberg.org/2009/agents/7457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17563#King-s-Cutters-and-Smugglers-1700-1855
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2006-01-21'
 gutenberg_type: Text
